@@ -6,7 +6,7 @@ The hash function is the central element of a hash table, defining which table i
 used to store the data. A hash function is a mathematical function that converts any numerical
 data into an output string comprising a fixed number of characters or a positive integer.
 
-The full description of the project can be found in [subject.pdf](pdf/B-PSU-100_my_sokoban.pdf).
+The full description of the project can be found in [subject.pdf](pdf/B-CPE-110_Secured.pdf).
 
 ## Prerequisites
  - [Make](https://www.gnu.org/software/make/)
