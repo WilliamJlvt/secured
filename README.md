@@ -45,7 +45,7 @@ Unit tests are written using the [Criterion](https://github.com/Snaipe/Criterion
 You can find the tests in the [bonus](bonus) directory. Just run `make lcriterion` to build the tests and `./hashtable` to run them.
 
 ## Authors
-* **William JOLIVET** ([GitHub](https://github.com/WilliamJlvt) / [LinkedIn](https://www.linkedin.com/in/william-jolivet-64951a24b/))
+* **William JOLIVET** ([GitHub](https://github.com/WilliamJlvt) / [LinkedIn](https://www.linkedin.com/in/william-jolivet/))
 * **Feyza MEDDAH** ([GitHub](https://github.com/etsuzaku))
 
 ## License
