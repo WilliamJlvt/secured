@@ -25,6 +25,6 @@ jobs:
           cat coding-style-reports.log
           echo "\n========================\n"
           errors=$(echo "$output" | grep -oP '\d+(?= coding style error)' || true)
-          if (( errors != 3 )); then
+          if (( errors != 2 )); then
             exit 1
           fi
